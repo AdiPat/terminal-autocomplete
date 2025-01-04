@@ -9,7 +9,7 @@
 Terminal Autocomplete isn’t your average terminal enhancement—it’s a calculated leap into the future of command-line intelligence. It merges the raw power of Python with the precision of OpenAI’s neural models to deliver smarter completions, historical insights, and a dynamic shell experience. Every keystroke becomes a collaboration between your mind and the machine. We’re redefining what it means to wield the terminal. 🧩
 
 <p align="center" width="100%">
-    <img height="300px" src="https://via.placeholder.com/300x150.png?text=Terminal+Autocomplete](https://img.freepik.com/free-photo/hooded-computer-hacker-stealing-information-with-laptop_155003-10571.jpg">
+    <img height="300px" src="https://raw.githubusercontent.com/AdiPat/terminal-autocomplete/refs/heads/main/assets/logo_art.png">
 </p>
 
 
